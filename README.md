@@ -422,7 +422,7 @@ We welcome contributions from the community! If you have a new technique or impr
 
 [![Contributors](https://contrib.rocks/image?repo=NirDiamant/RAG_Techniques)](https://github.com/NirDiamant/RAG_Techniques/graphs/contributors)
 
-## License
+## License.
 
 This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
 
